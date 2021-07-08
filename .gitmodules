@@ -1,3 +1,9 @@
 [submodule "dalybms"]
 	path = dalybms
 	url = https://github.com/MindFreeze/dalybms
+[submodule "hassio-axpert"]
+	path = hassio-axpert
+	url = https://github.com/MindFreeze/hassio-axpert
+[submodule "landroid-bridge"]
+	path = landroid-bridge
+	url = https://github.com/MindFreeze/landroid-bridge

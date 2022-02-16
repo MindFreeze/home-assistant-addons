@@ -7,3 +7,6 @@
 [submodule "landroid-bridge"]
 	path = landroid-bridge
 	url = https://github.com/MindFreeze/landroid-bridge
+[submodule "axpert_cmd"]
+	path = axpert_cmd
+	url = https://github.com/MindFreeze/axpert_cmd.git

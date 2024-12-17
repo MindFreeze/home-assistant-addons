@@ -10,3 +10,6 @@
 [submodule "axpert_cmd"]
 	path = axpert_cmd
 	url = https://github.com/MindFreeze/axpert_cmd.git
+[submodule "ha-vnc-web-browser"]
+	path = ha-vnc-web-browser
+	url = https://github.com/MindFreeze/ha-vnc-web-browser
